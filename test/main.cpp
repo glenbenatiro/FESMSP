@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+	system("msg * HAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA");
+	return 0;
+}
