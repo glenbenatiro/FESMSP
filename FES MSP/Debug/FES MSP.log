@@ -1,5 +1,0 @@
-﻿main.obj : error LNK2019: unresolved external symbol __imp__FDwfGetLastErrorMsg referenced in function "public: bool __thiscall AD2::isConnected(void)" (?isConnected@AD2@@QAE_NXZ)
-main.obj : error LNK2019: unresolved external symbol __imp__FDwfDeviceOpen referenced in function "public: bool __thiscall AD2::isConnected(void)" (?isConnected@AD2@@QAE_NXZ)
-main.obj : error LNK2019: unresolved external symbol __imp__FDwfDeviceCloseAll referenced in function "public: bool __thiscall AD2::isConnected(void)" (?isConnected@AD2@@QAE_NXZ)
-C:\Users\Glen\Desktop\FES MSP\FES MSP\lib\dwf.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
-C:\Users\Glen\Desktop\FES MSP\Debug\FES MSP.exe : fatal error LNK1120: 3 unresolved externals
